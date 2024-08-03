@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dennis-Murimi
 - 👀 I’m interested in turning raw data into actionable insights and solving complex problems to help businesses make informed decisions.
-- 🌱 I’m currently learning advanced techniques in SQL, Power BI, and Python to further enhance my data analysis and visualization skills.
+- 🌱 I’m currently learning advanced techniques in Excel, SQL, Power BI, and Python to further enhance my data analysis and visualization skills.
 - 💞️ I’m looking to collaborate on projects related to data analysis, business intelligence, and data visualization.
 - 📫 How to reach me: [dennismuchiri773@gmail.com] 
 - 😄 Pronouns: He/Him
